@@ -1,1 +1,100 @@
-# R-1
+
+<!DOCTYPE HTML>
+
+<html>
+<head>
+<meta charset="utf-8">
+<title>Diwakar's Personal site</title>
+
+</head>
+
+<style>
+
+body{
+	background-color: #a8d8ea;
+	}
+	
+hr{
+	border-style: none;
+	border-top: 5px dotted;
+	border-color:#F2F2F2;
+	border-width:8px;
+	width: 5%;
+}
+
+
+</style>
+<body>
+	<img src="https://hosting.photobucket.com/images/i/diwakar678/circle_cropped.png?width=1920&height=1080&fit=bounds" alt="Diwakar Picture" width="200" height="200"> <br>
+	<h1 style="color:#364f6b;">Diwakar Kamboj</h2>
+	<a href="mailto:diwakarsnirmal@gmail.com"><em>diwakarSnirmal@gmail.com</em></a>
+	<p><em>I'm a Software Test Engineer working with project-based IT company in <strong>Delhi/NCR</strong>.
+	I've more than 3+ years of experience in field of Software Quality Assurance Manual and automation testing with 
+	a solid understanding of test execution and Defect Reporting & Tracking. My graduation in <strong>Electronics & communication 
+	Engineering</strong> affiliated from Kurukshetra University, Haryana. I continuously participate in various online testing platforms
+	like <strong>BugFinders and Utest</strong>. I love my work and I'm very passionate about technology. 
+	I'll love to work with any product based IT company in the northern part of <b>India</b>.</em></p>
+	<hr>
+	<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid skyblue;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+tr:nth-child(odd) {
+  background-color: #F2F2F2;
+}
+</style>
+</head>
+<body>
+
+<h3>Technical Skills</h3>
+
+
+<table>
+ 
+  <tr>
+    <td>Operating Systems</td>
+    <td>Windows XP/Vista/7/8/10</td>
+  </tr>
+  <tr>
+    <td>Automation Testing Tools</td>
+    <td>Selenium Version 3/4, Postman</td>
+    
+  </tr>
+  <tr>
+    <td>Test Management Tools</td>
+    <td>Jira with Zephyr</td>
+    
+  </tr>
+  <tr>
+    <td>Database</td>
+    <td>MySQL 2016</td>
+    
+  </tr>
+  <tr>
+    <td>Languages</td>
+    <td>Java,HTML5,JS</td> 
+  </tr>
+  <tr>
+</table>
+<br>	
+<hr>
+	<h3>Testing Skills</h3>
+	<p><li>Experience in analyzing functional requirements and translate them to test cases.</li>
+<li>Well acquainted with Agile development, Software Testing Life Cycle (STLC) and Bug Life Cycle.</li> 
+<li>Through hands on experience with all level of testing and automation frameworks.</li>
+<li>Reviewed Test Cases for peers and given valuable comments about test case coverage and functionality.</li>
+</p>
+		</body>
+		</html>
